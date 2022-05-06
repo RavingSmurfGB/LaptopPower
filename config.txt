@@ -1,0 +1,4 @@
+battery_max_charge : 80
+battery_min_charge : 50
+hue_bridge : 10.1.0.151
+hue_plug : 14
